@@ -1,0 +1,5 @@
+scikeras==0.12.0
+keras==2.14.0
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
